@@ -1,4 +1,4 @@
-# Student Records
+# Student Records system
 
 Simple Java-based CLI app to manage student records.
 
